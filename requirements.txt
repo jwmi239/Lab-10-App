@@ -1,5 +1,5 @@
-streamlit st
-pandas pd
+streamlit
+pandas
 folium
 matplotlib
 streamlit_folium
